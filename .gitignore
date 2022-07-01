@@ -1,2 +1,3 @@
-whatsappParser/*.png
-whatsappParser/config.py
+**/__pycache__/
+*.png
+config.py
